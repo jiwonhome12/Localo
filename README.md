@@ -89,7 +89,7 @@ npm run dev
 
 ## 협업 규칙
 
-브랜치 이름, 커밋 메시지, PR 작성법, 주간 QA 방법은 **[CONTRIBUTING (2).md](./CONTRIBUTING (2).md)** 를 꼭 읽어주세요.
+브랜치 이름, 커밋 메시지, PR 작성법, 주간 QA 방법은 **[CONTRIBUTING.md](./CONTRIBUTING.md)** 를 꼭 읽어주세요.
 
 - 정기 세션: 미정 (초반 30분은 주간 QA)
 - `main` 브랜치에는 직접 push 금지. 반드시 Pull Request → 팀장 승인 → 병합
